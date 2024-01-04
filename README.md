@@ -1,4 +1,4 @@
-# A shorn tutorial about git base  
+# A short tutorial about git base  
 ---
 ## Making repository  
 1. Make local repo  
