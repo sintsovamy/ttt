@@ -60,7 +60,7 @@ HEAD - is file at .git. It contains link on last commit hash. On the other word 
 
 ## File lifecycle in git
 ```mermaid
-graph TD;
+graph LR;
     untracked -- "git add" --> staged/tracked;
     staged/tracked -- "git commit" --> tracked;
     tracked -- "MAKE SOME CHANGES" --> modified/tracked;
